@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla alias doloremque necessitatibus harum suscipit fugit accusantium reiciendis! Sint nostrum, porro temporibus impedit hic asperiores minus voluptatem natus, exercitationem libero perferendis adipisci quam vitae, error commodi! Quisquam illo hic voluptatibus explicabo est voluptas itaque eaque eligendi nisi iusto, molestiae sapiente ullam.",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "How to be a programmer",
+      "body": "sit amet consectetur adipisicing elit. Nulla alias doloremque necessitatibus harum suscipit fugit accusantium reiciendis! Sint nostrum, porro temporibus impedit hic asperiores minus voluptatem natus, exercitationem libero perferendis adipisci quam vitae, error commodi! Quisquam illo hic voluptatibus explicabo est voluptas itaque eaque eligendi nisi iusto, molestiae sapiente ullam.",
+      "likes": 150
+    },
+    {
+      "id": 3,
+      "title": "You have become a developer",
+      "body": "Sint nostrum, porro temporibus impedit hic asperiores minus voluptatem natus, exercitationem libero perferendis adipisci quam vitae, error commodi! Quisquam illo hic voluptatibus explicabo est voluptas itaque eaque eligendi nisi iusto, molestiae sapiente ullam.",
+      "likes": 20
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
